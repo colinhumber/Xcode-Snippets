@@ -1,7 +1,10 @@
 // NSLocalizedString
 // 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: 8B9F718E-235D-4136-992E-73C8E69AAB7F
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Code Expression
+// Platform: All
 
 NSLocalizedString(@"<#Message#>", <#Comment#>)

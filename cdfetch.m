@@ -1,9 +1,11 @@
 // Core Data Fetch
 // Simple Core Data Fetch with Predicate & Sort Descriptor
 //
-// Platform: iOS
+// IDECodeSnippetIdentifier: 8F26854E-5A2F-42BC-A997-6DBC6A9CAA9A
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: iOS
 
 NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] initWithEntityName:<#entityName#>];
 fetchRequest.predicate = [NSPredicate predicateWithFormat:<#predicateFormat#>];

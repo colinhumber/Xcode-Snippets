@@ -1,9 +1,11 @@
 // UICollectionViewDataSource
 // Placeholders for essential UICollectionViewDataSource delegate methods
 //
-// Platform: iOS
+// IDECodeSnippetIdentifier: BD64B041-6B99-4898-A0CF-CF64FBE901C9
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #pragma mark - UICollectionViewDataSource
 
