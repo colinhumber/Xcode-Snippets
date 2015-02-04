@@ -3,11 +3,11 @@
 //
 // IDECodeSnippetCompletionPrefix: @finally
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: E591D0EA-F048-4CA4-B0C1-7794A0118F79
+// IDECodeSnippetIdentifier: 00A4DC95-0D3C-4B93-A357-D3DBBDA72798
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @finally {
     <#handler#>
 }
