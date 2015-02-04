@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: enumdef
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 5D04838B-FD25-4CA1-BCF7-BA2F6569F1FE
+// IDECodeSnippetIdentifier: A0385933-AF7E-45F6-941C-4BD6978B81A6
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 enum <#enumeration name#> {
   <#enumerator1#> = <#value1#>,
   <#enumerator2#> = <#value2#>
