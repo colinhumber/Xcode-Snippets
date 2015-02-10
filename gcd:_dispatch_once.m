@@ -1,6 +1,7 @@
 // gcd:_dispatch_once
 // Used for executing code once through the lifetime of the object, such as for a singleton.
 //
+// gcd: _dispatch_once
 // IDECodeSnippetCompletionPrefix: dispatch_once
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: D2C1F7EC-D48A-40DF-A157-2A45DBE78114
